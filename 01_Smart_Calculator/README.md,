@@ -1,1 +1,132 @@
+# Smart Calculator
 
+Hi, I'm Haider Sultan, an Electrical Engineering student currently learning Python.
+
+I built this Smart Calculator as one of my beginner Python projects. The main purpose of this project was to practice the Python fundamentals I've been learning and to understand how different concepts work together in a real program.
+
+The calculator is simple, but it helped me practice writing functions, working with user input, using conditions and loops, and handling basic errors.
+
+## What the Calculator Does
+
+The calculator can perform several basic operations:
+
+* Addition
+* Subtraction
+* Multiplication
+* Division
+* Modulus
+* Power
+
+The program also allows the user to perform multiple calculations without having to restart it every time.
+
+## Python Concepts Used
+
+While working on this project, I practiced:
+
+* Variables
+* User input
+* Data types and type conversion
+* If, elif, and else statements
+* While loops
+* Functions
+* Arithmetic operators
+* Try and except
+* Basic error handling
+* Formatted output
+
+These are some of the main Python concepts I've been working on as I learn the language.
+
+## How to Run the Project
+
+This project does not require any external Python libraries.
+
+First, make sure Python is installed on your computer.
+
+You can check your Python version with:
+
+```bash
+python --version
+```
+
+Then download or clone this repository:
+
+```bash
+git clone https://github.com/your-username/python-fundamentals-portfolio.git
+```
+
+Go into the project folder:
+
+```bash
+cd python-fundamentals-portfolio
+```
+
+Then run the calculator:
+
+```bash
+python calculator.py
+```
+
+## Example
+
+A typical calculation looks something like this:
+
+```text
+==============================
+        SMART CALCULATOR
+==============================
+
+Enter first number: 25
+Enter second number: 5
+
+Choose an operation:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Modulus
+6. Power
+
+Enter your choice: 1
+
+Result: 30
+```
+
+## Why I Built This
+
+I wanted to practice Python by actually building something instead of only following tutorials.
+
+This project gave me a chance to use the concepts I had learned and see how they work together in a complete program.
+
+While building it, I also had to think about what happens when a user enters something incorrectly. That helped me understand basic error handling and made the program more reliable.
+
+## What I Learned
+
+One of the main things I learned from this project is that even a small program can involve several different Python concepts.
+
+I practiced breaking the program into functions instead of putting everything into one large section of code. I also learned how loops can keep a program running and how conditions can control what happens based on the user's choices.
+
+Most importantly, I got more comfortable writing Python code on my own.
+
+## Future Improvements
+
+There are several things I could add to this project as my Python skills improve.
+
+Some ideas are:
+
+* Calculation history
+* More mathematical operations
+* Better input validation
+* A more advanced menu
+* A graphical interface
+
+For now, I am keeping the project focused on Python fundamentals.
+
+## About Me
+
+My name is Haider Sultan, and I am an Electrical Engineering student.
+
+I am currently learning Python and building small projects to improve my programming skills. This project is part of my Python learning portfolio, where I am documenting what I learn by creating practical programs.
+
+I plan to continue building more projects as I become more comfortable with Python.
+
+Thanks for taking the time to look at my project.
